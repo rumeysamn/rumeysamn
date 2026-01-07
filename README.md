@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rumeysa 👋
 
-<!--
-**rumeysamn/rumeysamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High school student preparing for Computer Engineering in Italy (2026)
 
-Here are some ideas to get you started:
+## Interests
+- Software Development
+- Algorithms
+- Artificial Intelligence (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python
+- Problem solving
+- Basic data structures
+
+## Goals
+- Build strong foundations in programming
+- Create small but meaningful projects
+- Study Computer Engineering in Europe 🇮🇹
