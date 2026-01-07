@@ -1,6 +1,6 @@
 # Hi, I'm Rumeysa 👋
 
-🎓 High school student preparing for Computer Engineering in Italy (2027)
+🎓 High school student preparing for Computer Engineering in Italy (2026)
 
 ## Interests
 - Software Development
